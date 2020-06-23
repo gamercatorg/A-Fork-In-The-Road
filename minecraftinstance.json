@@ -594,6 +594,109 @@
       "installedTargets": null
     },
     {
+      "addonID": 313970,
+      "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
+      "installedFile": {
+        "id": 2906487,
+        "displayName": "Apotheosis-1.12.2-1.12.5.jar",
+        "fileName": "Apotheosis-1.12.2-1.12.5.jar",
+        "fileDate": "2020-03-20T21:18:47.83Z",
+        "fileLength": 471338,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2906/487/Apotheosis-1.12.2-1.12.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 283644,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 253449,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 250419,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 331921,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4122368635,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 879449788,
+            "type": 0
+          },
+          {
+            "foldername": "shadows",
+            "fingerprint": 3719393195,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4046965811,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 561440926,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1902526649,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Apotheosis-1.12.2-1.12.5.jar"
+      },
+      "dateInstalled": "2020-06-23T22:36:19.019022Z",
+      "dateUpdated": "2020-06-23T22:36:19.020455Z",
+      "dateLastUpdateAttempted": "2020-06-23T22:36:19.020455Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 251396,
       "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
       "installedFile": {
@@ -1256,6 +1359,225 @@
       "installedTargets": []
     },
     {
+      "addonID": 248055,
+      "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
+      "installedFile": {
+        "id": 2580332,
+        "displayName": "thedragonlib-1.12.2-5.3.0.jar",
+        "fileName": "thedragonlib-1.12.2-5.3.0.jar",
+        "fileDate": "2018-07-07T11:25:28.92Z",
+        "fileLength": 120010,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2580/332/thedragonlib-1.12.2-5.3.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1425356924,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2397081090,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3614650097,
+            "type": 0
+          },
+          {
+            "foldername": "changelog.md",
+            "fingerprint": 2543822031,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2788762794,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 845929941,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3234631088,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "thedragonlib-1.12.2-5.3.0.jar"
+      },
+      "dateInstalled": "2020-06-23T22:48:39.282529Z",
+      "dateUpdated": "2020-06-23T22:48:39.284575Z",
+      "dateLastUpdateAttempted": "2020-06-23T22:48:39.284575Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 223735,
+      "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
+      "installedFile": {
+        "id": 2914062,
+        "displayName": "Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
+        "fileName": "Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
+        "fileDate": "2020-03-27T13:01:25.257Z",
+        "fileLength": 399634,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2914/62/Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
+        "isAlternate": false,
+        "alternateFileId": 2914063,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3899682917,
+            "type": 0
+          },
+          {
+            "foldername": "aroma1997",
+            "fingerprint": 4139545350,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1356395472,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2455043554,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 875743704,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1380001109,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Aroma1997Core-1.12.2-2.0.0.2.b167.jar"
+      },
+      "dateInstalled": "2020-06-23T22:55:14.225179Z",
+      "dateUpdated": "2020-06-23T22:55:14.227689Z",
+      "dateLastUpdateAttempted": "2020-06-23T22:55:14.227689Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 224472,
+      "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
+      "installedFile": {
+        "id": 2962610,
+        "displayName": "AppleCore-mc1.12.2-3.3.0.jar",
+        "fileName": "AppleCore-mc1.12.2-3.3.0.jar",
+        "fileDate": "2020-05-21T22:58:46.387Z",
+        "fileLength": 88741,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2962/610/AppleCore-mc1.12.2-3.3.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1587194504,
+            "type": 0
+          },
+          {
+            "foldername": "squeek",
+            "fingerprint": 4291189182,
+            "type": 0
+          },
+          {
+            "foldername": "applecore.info",
+            "fingerprint": 194736620,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3674202975,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1940528642,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AppleCore-mc1.12.2-3.3.0.jar"
+      },
+      "dateInstalled": "2020-06-23T22:48:04.209106Z",
+      "dateUpdated": "2020-06-23T22:48:04.210119Z",
+      "dateLastUpdateAttempted": "2020-06-23T22:48:04.210119Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 255232,
       "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
       "installedFile": {
@@ -1330,6 +1652,68 @@
       "dateInstalled": "2020-06-23T22:35:31.742894Z",
       "dateUpdated": "2020-06-23T22:35:31.745384Z",
       "dateLastUpdateAttempted": "2020-06-23T22:35:31.745384Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 283644,
+      "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
+      "installedFile": {
+        "id": 2694382,
+        "displayName": "Placebo-1.12.2-1.6.0.jar",
+        "fileName": "Placebo-1.12.2-1.6.0.jar",
+        "fileDate": "2019-04-01T17:45:01.17Z",
+        "fileLength": 76902,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3586471488,
+            "type": 0
+          },
+          {
+            "foldername": "shadows",
+            "fingerprint": 2826136401,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2199692995,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2862833350,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Placebo-1.12.2-1.6.0.jar"
+      },
+      "dateInstalled": "2020-06-23T22:36:18.807982Z",
+      "dateUpdated": "2020-06-23T22:36:18.809902Z",
+      "dateLastUpdateAttempted": "2020-06-23T22:36:18.809902Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1644,6 +2028,207 @@
       "dateInstalled": "2020-06-23T22:36:05.294941Z",
       "dateUpdated": "2020-06-23T22:36:05.296043Z",
       "dateLastUpdateAttempted": "2020-06-23T22:36:05.296043Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 237366,
+      "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
+      "installedFile": {
+        "id": 2952741,
+        "displayName": "armorplus-1.12.2-11.28.0.69.jar",
+        "fileName": "armorplus-1.12.2-11.28.0.69.jar",
+        "fileDate": "2020-05-09T23:18:57.23Z",
+        "fileLength": 1780448,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2952/741/armorplus-1.12.2-11.28.0.69.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 248055,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 226410,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 74072,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1332455253,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2543513304,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2060559354,
+            "type": 0
+          },
+          {
+            "foldername": "changelog.md",
+            "fingerprint": 1128737005,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1614103637,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1105770388,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1067919870,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "armorplus-1.12.2-11.28.0.69.jar"
+      },
+      "dateInstalled": "2020-06-23T22:48:39.590984Z",
+      "dateUpdated": "2020-06-23T22:48:39.595216Z",
+      "dateLastUpdateAttempted": "2020-06-23T22:48:39.595216Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 60092,
+      "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
+      "installedFile": {
+        "id": 2683101,
+        "displayName": "Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b89.jar",
+        "fileName": "Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b89.jar",
+        "fileDate": "2019-03-04T10:33:15.623Z",
+        "fileLength": 80721,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2683/101/Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b89.jar",
+        "isAlternate": false,
+        "alternateFileId": 2683102,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 223735,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1940123702,
+            "type": 0
+          },
+          {
+            "foldername": "aroma1997",
+            "fingerprint": 2894805715,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3922869453,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 346487004,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3750137512,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3569033446,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b89.jar"
+      },
+      "dateInstalled": "2020-06-23T22:55:44.695036Z",
+      "dateUpdated": "2020-06-23T22:55:44.697092Z",
+      "dateLastUpdateAttempted": "2020-06-23T22:55:44.697092Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
