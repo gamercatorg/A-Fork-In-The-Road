@@ -46,7 +46,7 @@
   "name": "A Fork In The Road",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "0001-01-01T00:00:00",
+  "lastPreviousMatchUpdate": "2020-06-23T21:56:57.737343Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -712,6 +712,78 @@
       "dateInstalled": "2020-06-23T21:44:46.606897Z",
       "dateUpdated": "2020-06-23T21:44:46.611251Z",
       "dateLastUpdateAttempted": "2020-06-23T21:44:46.611251Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 228404,
+      "gameInstanceID": "01753125-2633-4c22-b2b7-a4d6cb657505",
+      "installedFile": {
+        "id": 2844115,
+        "displayName": "ActuallyAdditions-1.12.2-r151-2.jar",
+        "fileName": "ActuallyAdditions-1.12.2-r151-2.jar",
+        "fileDate": "2019-12-17T06:49:49.18Z",
+        "fileLength": 2703860,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2844/115/ActuallyAdditions-1.12.2-r151-2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "assets",
+            "fingerprint": 310944956,
+            "type": 0
+          },
+          {
+            "foldername": "de",
+            "fingerprint": 4087395318,
+            "type": 0
+          },
+          {
+            "foldername": "invtweaks",
+            "fingerprint": 1711912058,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2608161579,
+            "type": 0
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 759819900,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1671041874,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ActuallyAdditions-1.12.2-r151-2.jar"
+      },
+      "dateInstalled": "2020-06-23T21:44:59.703411Z",
+      "dateUpdated": "2020-06-23T21:44:59.716147Z",
+      "dateLastUpdateAttempted": "2020-06-23T21:44:59.716147Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
