@@ -14,5 +14,5 @@
 /resourcepacks
 .curseclient
 options.txt
-config.jaon
+config.json
 natives/
